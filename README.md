@@ -3,5 +3,6 @@
 👋 Bienvenido
 </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sqlserver,react,nodejs,express,git)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,sqlserver)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
