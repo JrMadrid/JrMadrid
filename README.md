@@ -2,7 +2,7 @@
 </br>
 </br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express)](https://skillicons.dev)
-&nbsp
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver)
-&nbsp
+
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
