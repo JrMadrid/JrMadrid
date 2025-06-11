@@ -3,9 +3,9 @@
 </br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
