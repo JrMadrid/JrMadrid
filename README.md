@@ -4,3 +4,4 @@
 </br>
 </br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sqlserver,react,nodejs,express,git)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
