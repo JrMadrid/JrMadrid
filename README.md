@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=8000&pause=1000&color=FF9A5D&vCenter=true&repeat=false&lines=Codifica%2C+Aprende%2C+Mejora%2C+Repite" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=8000&pause=1000&color=FF9A5D&vCenter=true&repeat=false&lines=Codifica%2C+Aprende%2C+Mejora%2C+Repite" alt="Typing SVG" /></a>
 </br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
